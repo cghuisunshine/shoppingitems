@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-No personal information collected and used
+The app use advertisements at the bottom of view to provide freely use. And these advertisements would be function better with users allowing track. If users don't permit that, it doesn't affect the function of the app.
 
 **Log Data**
 
